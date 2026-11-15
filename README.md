@@ -23,5 +23,5 @@ Um projeto completo de chat em tempo real desenvolvido em **Kotlin**, utilizando
 └── server/                       # Servidor TCP (JVM / Kotlin)
     └── Main.kt                   # Lógica do Servidor e Regras de Negócio do Bot
 
-<img width="422" height="549" alt="1" src="https://github.com/user-attachments/assets/9f962934-1ca7-4058-a569-9abea26fe6f7" />
+
 
